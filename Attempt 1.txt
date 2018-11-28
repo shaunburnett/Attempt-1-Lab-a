@@ -1,0 +1,6 @@
+﻿------ Build started: Project: WebSite1(1), Configuration: Debug Any CPU ------
+Validating Web Site
+Building directory '/'.
+
+Validation Complete
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
